@@ -1,5 +1,4 @@
 # TYPES OF OPERATOR
-
 a=50
 b=20
 
@@ -72,16 +71,4 @@ print(type(Name))
 Age=input("enter your age: ")
        
 Phone=input("enter your phone no.: ")
-
-
-
-
-
-
-
-
-
-
-
-
 
