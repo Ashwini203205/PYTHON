@@ -11,6 +11,11 @@ Convert data type
 Upper & Lower case
 
 DAY 2
+Types of Operators: Arithmatic, Realational, Assignment, Logical
+Converstion 
+Casting
+Taking Input
+
 
  
 
