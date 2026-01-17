@@ -1,7 +1,8 @@
 # SYNTAX
 
-print("Hello !")                    #"" '' both are same working
-print('ashwini')                    #word
+print("Hello !")                    #double   ("") ('') (""" """)  same working
+print('ashwini')                    #single
+print("""ashwini""")                #triple
 print("I am Ashwini Mohan Giri")    #sentence
 print(20)                           #number
 
@@ -83,3 +84,4 @@ print(c)
 
 d=(a-b)
 print(d)
+
