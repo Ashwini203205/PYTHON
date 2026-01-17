@@ -16,6 +16,16 @@ Converstion
 Casting
 Taking Input
 
+DAY 3
+STRING
+Next line
+Concatination
+Length
+Indexting
+Slicing(forward & backward)
+String Functions
+
+
 
  
 
