@@ -73,8 +73,6 @@ k="Hello"
 u=print(k.upper())
 o=print(k.lower())
 
-
-
 #SUM & DIFFERENCE
 a=3
 b=2
@@ -84,4 +82,3 @@ print(c)
 
 d=(a-b)
 print(d)
-
