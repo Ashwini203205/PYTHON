@@ -25,6 +25,14 @@ Indexting
 Slicing(forward & backward)
 String Functions
 
+DAY 4
+Conditional Statements
+if-else
+if-elif-else  
+if-if-if... 
+Nesting if 
+Examples
+
 
 
  
