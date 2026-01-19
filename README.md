@@ -29,7 +29,7 @@ DAY 4
 Conditional Statements
 if-else
 if-elif-else  
-if-if-if... 
+if-if-if
 Nesting if 
 Examples
 
