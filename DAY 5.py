@@ -1,7 +1,7 @@
 #LIST :
 """
 - build in data type  (stores int,str,float etc)
-- Imutable can be change.
+- Mutable can be change.
 - list can access as well as change.
 - index start from Zero.
 """
@@ -67,4 +67,5 @@ list.remove(5)              # remove() : remove letter '9'list.insert(5,9)
 print(list)
 
 list.pop(1)                 # pop() : remove/pop 1st position in list
+
 print(list)
