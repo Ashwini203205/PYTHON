@@ -48,7 +48,7 @@ index, count,
 
 Examples of List (using append, check Palindrom, Count(), Sort(), Reverse())
 
-DAY 6
+DAY 7
 Dictonary
 
 
