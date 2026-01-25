@@ -35,8 +35,9 @@ Examples.
 
 DAY 5 
 List,
+Replacement in list,
 List Slicing,
-List Methods :
+List Methods(7):
 append(),,Insert(), sort(), reverse(), pop(), remove()
 
 DAY 6 
