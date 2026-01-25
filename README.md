@@ -33,6 +33,19 @@ if-if-if,
 Nesting if, 
 Examples.
 
+DAY 5 
+List,
+List Slicing,
+List Methods :
+append(),,Insert(), sort(), reverse(), pop(), remove()
+
+DAY 6 
+Tuple,
+Tuple Slicing,
+Tuple Methods: 
+index, count, 
+Examples of List (using append, check Palindrom, Count(), Sort(), Reverse()
+
 
 
  
