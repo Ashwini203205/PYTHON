@@ -37,15 +37,19 @@ DAY 5
 List,
 Replacement in list,
 List Slicing,
-List Methods(7):
+List Methods(6):
 append(),,Insert(), sort(), reverse(), pop(), remove()
 
 DAY 6 
 Tuple,
 Tuple Slicing,
-Tuple Methods: 
+Tuple Methods(2): 
 index, count, 
-Examples of List (using append, check Palindrom, Count(), Sort(), Reverse()
+
+Examples of List (using append, check Palindrom, Count(), Sort(), Reverse())
+
+DAY 6
+Dictonary
 
 
 
