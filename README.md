@@ -49,7 +49,14 @@ index, count,
 Examples of List (using append, check Palindrom, Count(), Sort(), Reverse())
 
 DAY 7
-Dictonary
+Dictonary,
+Accesing dictonary,
+Adding itms,
+Replace / Change,
+Null,
+Nested dictonary,
+Methnod(7)
+
 
 
 
