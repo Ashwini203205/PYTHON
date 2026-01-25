@@ -22,7 +22,7 @@ tuple=(20,)              #right way of writting single value tuplr
 print(tuple)
 print(len(tuple))
 
-tuple=(20)               #if we write single tuple without (,) then it is str type
+tuple=(20)               #if we write single tuple without (,) then it is int type
 print(type(tuple))
 print("\n")
 
