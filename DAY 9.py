@@ -67,3 +67,34 @@ while i < len(num):
        print("Element found at index:",i)
        break
     i = i + 1
+
+
+
+
+""" Break & Continue
+Break : Used to terminate the loop entirely.
+Continue : Used to skip the current iteration and move to the next iteration of the loop.
+"""
+
+#infinite loop
+while True:
+    print("Hello World","\n")     #TILL HERE IT WILL PRINT INFINITE TIME
+    break                         #break is use to stop infinite loop
+                                  #HERE PRINT HELLO WORLD ONLY ONCE
+
+#finite loop with break
+count=1
+while count<=5:                    #WHILE CONDITION, PRINT HELLO ASHWINI
+    print("Hello Ashwini")
+    count=count+1                  #INCREMENT
+    if count==3:                   #WHEN COUNT IS 3, BREAK THE LOOP
+        break
+print("\n")
+
+#finite loop with continue
+count=0
+while count<2:                    #WHILE CONDITION, PRINT HELLO YASH
+    count=count+1                  #INCREMENT
+    if count==1:                   #WHEN COUNT IS 1, SKIP THE PRINT STATEMENT
+        continue
+    print("Hello Yash")
