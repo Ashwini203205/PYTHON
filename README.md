@@ -57,6 +57,18 @@ Null,
 Nested dictonary,
 Methnod(7)
 
+DAY 7
+Set,
+empty set,
+Methods of set:
+add(),
+remove(),
+pop(),
+clean(),
+union U,
+internsection,
+EX of directory 
+
 
 
 
