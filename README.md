@@ -57,7 +57,7 @@ Null,
 Nested dictonary,
 Methnod(7)
 
-DAY 7
+DAY 8
 Set,
 empty set,
 Methods of set:
