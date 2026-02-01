@@ -67,7 +67,20 @@ pop(),
 clean(),
 union U,
 internsection,
-EX of directory 
+EX of directory
+
+DAY 9
+
+DAY A
+
+DAY B
+
+DAY C
+
+DAY D
+
+DAY E
+
 
 
 
