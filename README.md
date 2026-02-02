@@ -70,10 +70,26 @@ internsection,
 EX of directory
 
 DAY 9
+Loops: while loop,
+Infinite loop,
+Finite loop,
+Reverse printing,
+Examples of while loop,
+Break & Continue.
 
 DAY A
+For loop,
+Examples of for loop,
+Range Function(for),
+Pass statement (skip).
 
 DAY B
+Functions,
+ 1. function with arguments and return type,
+ 2. function with no arguments and no return type,
+ 3. function with arguments and no return type,
+ 4. function with no arguments and return type,
+Examples.
 
 DAY C
 
