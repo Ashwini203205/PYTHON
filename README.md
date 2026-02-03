@@ -101,7 +101,7 @@ FILE MODES,
 FILE OPERATIONS,
  1. Open a file and read data,
  2. Open a file and write data(overwrite mode),
- 3 .Open a file and append data (write at the end of the file),
+ 3. Open a file and append data (write at the end of the file),
 r+,w+,a+.
 
 DAY E:
