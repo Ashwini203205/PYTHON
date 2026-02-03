@@ -105,6 +105,9 @@ FILE OPERATIONS,
 r+,w+,a+.
 
 DAY E
+Diffente syntax of file I/O,
+delete file,
+Examples.
 
 
 
