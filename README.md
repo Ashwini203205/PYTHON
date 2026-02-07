@@ -109,6 +109,9 @@ Diffente syntax of file I/O,
 delete file,
 Examples.
 
+DAY F:
+
+
 
 
 
