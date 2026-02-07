@@ -127,4 +127,5 @@ class stu:
     def col():
         print("Trinity")
 
+
 stu.col()                      # Calling static method
