@@ -111,6 +111,8 @@ Examples.
 
 DAY F:
 
+DAY G:
+
 
 
 
