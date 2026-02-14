@@ -1,8 +1,5 @@
 # SYNTAX
 
-
-
-
 print("Hello !")                    #double   ("") ('') (""" """)  same working
 print('ashwini')                    #single
 print("""ashwini""")                #triple
