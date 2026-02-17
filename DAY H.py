@@ -22,18 +22,22 @@ Types: Single Inheritance      (one child one parent)
                     Takes self as first parameter
                     Works with object data (instance variables)
                     Can access and modify object properties)
+4. @property     :  Uses decorator: @property
+                    Allows a method to be accessed like a variable
+                    Used for data hiding and encapsulation
+                    Helps control access to private variables
 
 * Super Method
 
-________________________________________________________________________________________
-| Method Type     | Decorator       | First Argument | Access Instance | Access Class   |
-| --------------- | --------------- | -------------- | --------------- | ------------   |
-| Instance Method | No decorator    | `self`         | ✅ Yes         | ✅ Yes         |
-| Class Method    | `@classmethod`  | `cls`          | ❌ No          | ✅ Yes         |
-| Static Method   | `@staticmethod` | None           | ❌ No          | ❌ No          |
-__________________________________________________________________________________________
+______________________________________________________________________________________
+| Method Type     | Decorator       | First Argument | Access Instance | Access Class |
+| --------------- | --------------- | -------------- | --------------- | ------------ |
+| Instance Method | No decorator    | `self`         | ✅ Yes          | ✅ Yes      |
+| Class Method    | `@classmethod`  | `cls`          | ❌ No           | ✅ Yes      |
+| Static Method   | `@staticmethod` | None           | ❌ No           | ❌ No       |
+| Property Method | `@property`     | `self`         | ✅ Yes          | ✅ Yes      |
+_______________________________________________________________________________________
 """
-
 
 # 1.Single level Inhertance
 
@@ -155,6 +159,7 @@ s1 = Student("Rahul","IT")
 
 print("Name:", s1.name)
 print("Course:", s1.course)
+
 
 
 
