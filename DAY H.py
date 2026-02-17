@@ -1,4 +1,6 @@
 # Inheritance
+#Static Method
+#Super Method
 
 """
 Child class derives properties and methods of parent class
@@ -127,3 +129,4 @@ s1 = Student("Rahul","IT")
 
 print("Name:", s1.name)
 print("Course:", s1.course)
+
