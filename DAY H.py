@@ -1,7 +1,7 @@
 # Inheritance
-#Static Method
-#Super Method
-
+#@Static Method
+#Super() Method
+#@classmethod
 """
 Child class derives properties and methods of parent class
 Types: Single Inheritance      (one child one parent)
@@ -129,4 +129,5 @@ s1 = Student("Rahul","IT")
 
 print("Name:", s1.name)
 print("Course:", s1.course)
+
 
