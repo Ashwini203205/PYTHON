@@ -110,17 +110,41 @@ delete file,
 Examples.
 
 DAY F:
+OOP (Basic),
+POP vs OOP difference,
+Class & Object,
+Constructor,
+Default Constructor,
+Paramerterized Constructor,
+Attributes,
+Methods(creating class in method & Creating object),
+Static Methods.
 
 DAY G:
+OOP 4 pillors: Abstraction     def __init__
+               Encapsulation   def __init__
+               Inheritance     @classmethod , @Staticmethod , Method instance method(def __init__) , Super Method
+               Polymorphism
+Abstraction,
+Encapsulation,  
+del Kerword,
+function inside a class,
+Private (like) Attribute & Method.
 
 DAY H:
+Inheritance ,
+Types: Single Inheritance      (one child one parent)
+       Multiple Inheritance    (One Base, Multiple Derived
+       Multi Level Inheritance (Multiple parent, One child),
+decorators :1. @Static Method
+            2. @classmethod
+            3. instance method: __init__ 
+            4. @property,
+* Super Method.
 
 DAY I:
-(CLASS 27)
-
-
-
-
-
- 
-
+Polymorphism,
+Operation polym.,
+Function Polymorphism,
+types: Compile-time Polymorphism (Method Overloading)
+       Run-time Polymorphism (Method Overriding).
