@@ -121,10 +121,11 @@ Methods(creating class in method & Creating object),
 Static Methods.
 
 DAY G:
-OOP 4 pillors: Abstraction     def __init__
-               Encapsulation   def __init__
-               Inheritance     @classmethod , @Staticmethod , Method instance method(def __init__) , Super Method
-               Polymorphism
+OOP 4 pillors:
+  1.Abstraction     def __init__
+  2.Encapsulation   def __init__
+  3.Inheritance     @classmethod , @Staticmethod , Method instance method(def __init__) , Super Method
+  4.Polymorphism
 Abstraction,
 Encapsulation,  
 del Kerword,
@@ -133,9 +134,9 @@ Private (like) Attribute & Method.
 
 DAY H:
 Inheritance ,
-Types: Single Inheritance      (one child one parent)
-       Multiple Inheritance    (One Base, Multiple Derived
-       Multi Level Inheritance (Multiple parent, One child),
+Types:   Single Inheritance      (one child one parent)
+         Multiple Inheritance    (One Base, Multiple Derived
+         Multi Level Inheritance (Multiple parent, One child),
 decorators :1. @Static Method
             2. @classmethod
             3. instance method: __init__ 
