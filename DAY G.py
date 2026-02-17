@@ -1,12 +1,13 @@
 # OOP : Object Oriented Programing
 
-# OOP 4 pillors: Abstraction 
-#                Encapsulation
+# OOP 4 pillors: Abstraction     def __init__
+#                Encapsulation   def __init__
 #                Inheritance
 #                Polymorphism
 
 
 # Abstraction:
+#def __init__
 
 """
 Hiding the implementation details of a class
@@ -32,6 +33,7 @@ print("\n")
 
 
 # Encapsulation  
+#def __init__
 
 """
 Data + Function = Capsule  (single unit called object)
@@ -117,3 +119,4 @@ welcome() prints "hello".
 Since welcome() does not return anything, it returns None.
 print() displays None.
 """
+
