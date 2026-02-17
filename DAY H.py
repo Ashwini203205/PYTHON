@@ -161,5 +161,59 @@ print("Name:", s1.name)
 print("Course:", s1.course)
 
 
+# Class Method
+
+"""
+Class Method is bound to the class & receives the class as an implicit first argument
+note: static mathod cant access or modify class state & generally for utility
+We use @classmethod decorator to create a class method.
+"""
+
+#without class method 
+
+class person:
+    name="ashwini"
+    def changename(self,name):
+        self.name=name
+
+p1=person()
+p1.changename("yash")
+print(p1.name)
+print(person.name)
+print("\n")
+
+
+#with class method
+class person:
+    name="rupali"
+
+    @classmethod
+    def changename(cls,name):
+        cls.name=name
+
+p1=person()
+p1.changename("mohan")
+print(p1.name)
+print(person.name)
+print("\n")
+
+
+#@property 
+"""
+we use @property dector on any method in class to use method as a property
+"""
+class Person:
+    def __init__(self, age):
+        self._age = age
+
+    @property
+    def age(self):
+        return self._age
+
+p = Person(20)
+print(p.age)                   # No parentheses needed
+
+
+
 
 
