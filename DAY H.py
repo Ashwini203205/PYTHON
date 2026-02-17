@@ -1,13 +1,39 @@
 # Inheritance
-#@Static Method
-#Super() Method
-#@classmethod
+
 """
 Child class derives properties and methods of parent class
+
 Types: Single Inheritance      (one child one parent)
        Multiple Inheritance    (One Base, Multiple Derived)
        Multi Level Inheritance (Multiple parent, One child)
 """
+
+
+"""decorators
+
+1. @Static Method : argument:no class no property   Uses decorator: @staticmethod
+                    Takes no self and no cls
+                    Cannot access class or instance variables directly
+                    Used for utility/helper functions)
+2. @classmethod   : argument:class   Uses decorator: @classmethod
+                    Takes cls (class) as first parameter
+                    Can access and modify class variables)
+3. instance method: __init__ argument:self   
+                    Takes self as first parameter
+                    Works with object data (instance variables)
+                    Can access and modify object properties)
+
+* Super Method
+
+________________________________________________________________________________________
+| Method Type     | Decorator       | First Argument | Access Instance | Access Class   |
+| --------------- | --------------- | -------------- | --------------- | ------------   |
+| Instance Method | No decorator    | `self`         | ✅ Yes         | ✅ Yes         |
+| Class Method    | `@classmethod`  | `cls`          | ❌ No          | ✅ Yes         |
+| Static Method   | `@staticmethod` | None           | ❌ No          | ❌ No          |
+__________________________________________________________________________________________
+"""
+
 
 # 1.Single level Inhertance
 
@@ -129,5 +155,6 @@ s1 = Student("Rahul","IT")
 
 print("Name:", s1.name)
 print("Course:", s1.course)
+
 
 
