@@ -2,7 +2,7 @@
 
 # OOP 4 pillors: Abstraction     def __init__
 #                Encapsulation   def __init__
-#                Inheritance
+#                Inheritance     Static Method,Super Method
 #                Polymorphism
 
 
@@ -119,4 +119,5 @@ welcome() prints "hello".
 Since welcome() does not return anything, it returns None.
 print() displays None.
 """
+
 
