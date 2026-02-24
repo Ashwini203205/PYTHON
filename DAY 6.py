@@ -74,4 +74,5 @@ b=["c","d","a","a","b","b","b"]
 print(b.count("a"))
 
 b.sort()
+
 print(b)
