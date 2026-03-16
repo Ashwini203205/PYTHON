@@ -1,6 +1,5 @@
 # STRING'S
 
-
 print('Ashwini')
 print( "Mohan")
 print("""Giri""")
