@@ -1,6 +1,5 @@
 # CONDITIONAL STATEMENT
 # SYNTAX:SET OF RULES 
-
 # if-else
 
 age=int(input("age = "))              # input only for string but here age is integer we can convert.
