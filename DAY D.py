@@ -8,6 +8,7 @@ types of files:
 3. database files = structured data files (.db,.sql,.mdb etc)
 
 
+
 FILE MODES:
 'r'  = read mode (default mode, file must exist)
 'w'  = write mode (overwrite existing file,if file not exist then creates new file)
