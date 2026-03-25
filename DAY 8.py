@@ -4,7 +4,6 @@ items are unique ,sets are mutable but values/elements are immutable
 dublicate values  allow but set ignores(i.e consider as one)
 """
 
-
 set={1,2,3,4,"ashwini","giri","giri",5}
 print(set)
 print(len(set))
