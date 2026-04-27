@@ -2,7 +2,6 @@
 a=50
 b=20
 
-
 # 1.ARTHIMETIC OPERATOR
 print(a+b)           #ADDITION
 print(a-b)           #SUBTRACTION
