@@ -1,5 +1,7 @@
 #LIST :
 
+
+
 """
 - build in data type  (stores int,str,float etc)
 - Mutable can be change.
